@@ -20,8 +20,6 @@
   </a>
 </p>
 
-
-
 <h2 align="left">Machine Learning and Data Science</h2>
 <p align="left">
  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
@@ -33,8 +31,6 @@
 
 <h2 align="left">Data Analysis Tools</h2>
 <p align="left">
- <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img 
-</a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="PowerBI" width="40" height="40"/> </a>
 </p>
 
-<h1 align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferdal137&show_icons=true&locale=en" alt="ferdal137" /></p></h1>
