@@ -3,11 +3,9 @@
 
 <h3>
  
-• 🚀 SOy  **Data Scientist**
+• 🚀 Soy  **Data Scientist**
 
-• 📊 Soy  *Ingeniero en Sistemas Computacionales** y **Cientifico de datos**
-
-• 📖 I’m currently learning **Advanced Neural Network Architectures**
+• 📊 Soy  **Ingeniero en Sistemas Computacionales** y **Cientifico de datos**
 
 • 📫 Donde contactarme **ishediz@gmail.com@gmail.com**  </h3>
 
