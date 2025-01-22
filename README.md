@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋, Soy Isaac Heredia Díaz</h1>
+<h1 align="center">¡Hola! 👋, Soy Isaac Heredia Diaz</h1>
 <h3 align="center">Data Scientist y apasionado por los datos 📊</h3>
 
 ---
