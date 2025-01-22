@@ -7,7 +7,7 @@
 
 • 📊 Soy  **Ingeniero en Sistemas Computacionales** y **Cientifico de datos**
 
-• 📫 Donde contactarme **ishediz@gmail.com@gmail.com**  </h3>
+• 📫 Donde contactarme **ishediz@gmail.com**  </h3>
 
 
 <h2 align="left">Languages</h2>
