@@ -51,17 +51,13 @@
 ---
 
 ### 🌱 Actualmente estoy aprendiendo
-- Modelos avanzados de redes neuronales.  
+- BigData y Spark.  
 - Visualización interactiva de datos utilizando herramientas modernas.  
 
 ---
 
 ### 🌐 Encuéntrame en
-- [LinkedIn](https://www.linkedin.com) *(Actualiza con tu enlace)*  
-- [GitHub](https://github.com/ishediz)
+- [LinkedIn](www.linkedin.com/in/ihd-cientifico-de-datos)  
 
 ---
 
-### ✨ Proyectos Destacados
-- **[Nombre del Proyecto 1](#):** Breve descripción del proyecto, lo que aprendiste y tecnologías utilizadas.  
-- **[Nombre del Proyecto 2](#):** Breve descripción del proyecto, lo que aprendiste y tecnologías utilizadas.  
